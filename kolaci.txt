@@ -1,0 +1,18 @@
+ID: 123
+Naziv: Sampita
+Proizvedeno: 09.09.9999.
+Istice: 15.15.1515.
+Cijena: 1.50
+Stanje: Ima
+ID: 258
+Naziv: Kinder bueno
+Proizvedeno: 05.06.2020.
+Istice: 12.06.2020.
+Cijena: 3.50
+Stanje: Ima
+ID: 321
+Naziv: Tufahija
+Proizvedeno: 02.02.2222.
+Istice: 05.05.5555.
+Cijena: 1.00
+Stanje: Ima
